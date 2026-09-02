@@ -1,4 +1,4 @@
-# Aryan Rathi - CMSC 427 - Homework 11
+# Aryan Rathi - CMSC 427 - Homework 11 - Toybox
 
 The focus of this week was to add interactivity and state management to the toy collection app, implementing features like adding, editing, and deleting collections and items. I built on the previous navigation structure and screens to create a fully functional app with proper data persistence across screens using React Context. I also implemented theme customization to allow users to change the app's appearance.
 
